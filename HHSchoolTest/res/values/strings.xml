@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HH School Test</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_activity1">Резюме</string><string name="title_activity_activity2">Отклик</string>
+    
+    <string-array name="gender">
+        <item >муж</item>
+        <item >жен</item>
+    </string-array>
+    <string name="spinner_promt">Выбор пола</string>
+
+</resources>
